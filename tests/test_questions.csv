@@ -1,0 +1,16 @@
+Test ID,Question,Expected Result,Actual Result,Retrieved Source,Status
+TC01,What is a CNN?,Definition supported by CNN notes,Correct answer generated,cnn.pdf,Pass
+TC02,What is a CNN used for?,Image-related applications from CNN notes,Correct answer generated,cnn.pdf,Pass
+TC03,What are pixels?,Explanation supported by CNN notes,Correct answer generated,cnn.pdf,Pass
+TC04,What are convolution and pooling?,Explanation supported by CNN notes,Correct answer generated,cnn.pdf,Pass
+TC05,What is an LLM?,Definition supported by LLM notes,Correct answer generated,LLM_notes.pdf,Pass
+TC06,What are the advantages of LLMs?,Relevant advantages from LLM notes,Correct answer generated,LLM_notes.pdf,Pass
+TC07,What are the limitations of LLMs?,Relevant limitations from LLM notes,Correct answer generated,LLM_notes.pdf,Pass
+TC08,What is prompt engineering?,Definition from prompt engineering notes,Correct answer generated,prompt_engineering.pdf,Pass
+TC09,Why are clear prompts useful?,Explanation from prompt engineering notes,Correct answer generated,prompt_engineering.pdf,Pass
+TC10,What makes a prompt effective?,Guidance supported by prompt engineering notes,Correct answer generated,prompt_engineering.pdf,Pass
+TC11,Explain CNNs in simple language.,Answer supported by CNN notes,Correct answer generated,cnn.pdf,Pass
+TC12,Summarize prompt engineering.,Summary supported by prompt engineering notes,Correct answer generated,prompt_engineering.pdf,Pass
+TC13,Who invented the telephone?,Fallback if absent from uploaded documents,Fallback message displayed,No source displayed,Pass
+TC14,What is the capital of Brazil?,Fallback if absent from uploaded documents,Fallback message displayed,No source displayed,Pass
+TC15,What is the company's leave policy?,Fallback if absent from uploaded documents,Fallback message displayed,No source displayed,Pass
